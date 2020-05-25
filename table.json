@@ -1,0 +1,509 @@
+{
+  "data01": {
+    "list": [
+      {
+        "id": 1,
+        "name": "张三",
+        "tel": "15031267890",
+        "money": 123,
+        "address": "广东省东莞市长安镇",
+        "state": "成功",
+        "date": "2019-11-1",
+        "thumb": "https://lin-xin.gitee.io/images/post/wms.png"
+      },
+      {
+        "id": 2,
+        "name": "李四",
+        "tel": "15031267890",
+        "money": 456,
+        "address": "广东省广州市白云区",
+        "state": "成功",
+        "date": "2019-10-11",
+        "thumb": "https://lin-xin.gitee.io/images/post/node3.png"
+      },
+      {
+        "id": 3,
+        "name": "王五",
+        "tel": "15031267890",
+        "money": 789,
+        "address": "湖南省长沙市",
+        "state": "失败",
+        "date": "2019-11-11",
+        "thumb": "https://lin-xin.gitee.io/images/post/parcel.png"
+      },
+      {
+        "id": 4,
+        "name": "赵六",
+        "tel": "15031267890",
+        "money": 1011,
+        "address": "福建省厦门市鼓浪屿",
+        "state": "成功",
+        "date": "2019-10-20",
+        "thumb": "https://lin-xin.gitee.io/images/post/notice.png"
+      },
+      {
+        "id": 5,
+        "name": "张三",
+        "tel": "15031267890",
+        "money": 123,
+        "address": "广东省东莞市长安镇",
+        "state": "成功",
+        "date": "2019-11-1",
+        "thumb": "https://lin-xin.gitee.io/images/post/wms.png"
+      },
+      {
+        "id": 6,
+        "name": "李四",
+        "tel": "15031267890",
+        "money": 456,
+        "address": "广东省广州市白云区",
+        "state": "成功",
+        "date": "2019-10-11",
+        "thumb": "https://lin-xin.gitee.io/images/post/node3.png"
+      },
+      {
+        "id": 7,
+        "name": "王五",
+        "tel": "15031267890",
+        "money": 789,
+        "address": "湖南省长沙市",
+        "state": "失败",
+        "date": "2019-11-11",
+        "thumb": "https://lin-xin.gitee.io/images/post/parcel.png"
+      },
+      {
+        "id": 8,
+        "name": "赵六",
+        "tel": "15031267890",
+        "money": 1011,
+        "address": "福建省厦门市鼓浪屿",
+        "state": "成功",
+        "date": "2019-10-20",
+        "thumb": "https://lin-xin.gitee.io/images/post/notice.png"
+      },
+      {
+        "id": 9,
+        "name": "张三",
+        "tel": "15031267890",
+        "money": 123,
+        "address": "广东省东莞市长安镇",
+        "state": "成功",
+        "date": "2019-11-1",
+        "thumb": "https://lin-xin.gitee.io/images/post/wms.png"
+      },
+      {
+        "id": 10,
+        "name": "李四",
+        "tel": "15031267890",
+        "money": 456,
+        "address": "广东省广州市白云区",
+        "state": "成功",
+        "date": "2019-10-11",
+        "thumb": "https://lin-xin.gitee.io/images/post/node3.png"
+      }
+    ],
+    "pageTotal": 10
+  },
+  "data02": {
+    "list": [
+      {
+        "id": 1,
+        "order": "200510164241298",
+        "merchant": "禅吧网",
+        "wechatName": "小鱼",
+        "tel": "15031267890",
+        "money": 123,
+        "profit": "1",
+        "date": "2019-11-1"
+      },
+      {
+        "id": 2,
+        "order": "200510164241298",
+        "merchant": "禅吧网",
+        "wechatName": "小虾",
+        "tel": "15031267890",
+        "money": 123,
+        "profit": "1",
+        "date": "2019-11-1"
+      },
+      {
+        "id": 3,
+        "order": "200510164241298",
+        "merchant": "禅吧网",
+        "wechatName": "小鱼",
+        "tel": "15031267890",
+        "money": 123,
+        "profit": "1",
+        "date": "2019-11-1"
+      },
+      {
+        "id": 4,
+        "order": "200510164241298",
+        "merchant": "禅吧网",
+        "wechatName": "小鱼",
+        "tel": "15031267890",
+        "money": 123,
+        "profit": "1.4",
+        "date": "2019-11-1"
+      }
+    ],
+    "pageTotal": 4
+  },
+  "data03": {
+    "list": [
+      {
+        "id": 1,
+        "merchant": "禅吧网",
+        "industry": "教育",
+        "contacts": "小鱼",
+        "tel": "15031267890",
+        "email": "1234569@163.com",
+        "remarks": "备注信息",
+        "status": "通过"
+      },
+      {
+        "id": 2,
+        "merchant": "泰和优选",
+        "industry": "教育",
+        "contacts": "小鱼",
+        "tel": "15031267890",
+        "email": "1234569@163.com",
+        "remarks": "备注信息",
+        "status": "未通过"
+      },
+      {
+        "id": 3,
+        "merchant": "北国天骄",
+        "industry": "教育",
+        "contacts": "小鱼",
+        "tel": "15031267890",
+        "email": "1234569@163.com",
+        "remarks": "备注信息",
+        "status": "通过"
+      },
+      {
+        "id": 4,
+        "merchant": "米铺子",
+        "industry": "教育",
+        "contacts": "小鱼",
+        "tel": "15031267890",
+        "email": "1234569@163.com",
+        "remarks": "备注信息",
+        "status": "未通过"
+      }
+    ],
+    "pageTotal": 4
+  },
+  "data04": {
+    "list": [
+      {
+        "id": 1,
+        "goodName": "字画",
+        "store": "禅吧网",
+        "type": "教育",
+        "price": "1250",
+        "Sold": "100",
+        "surplus": "200",
+        "status": "通过",
+        "PutTime": "2020-05-23"
+      },
+      {
+        "id": 2,
+        "goodName": "字画",
+        "store": "泰和优选",
+        "type": "教育",
+        "price": "1250",
+        "Sold": "100",
+        "surplus": "200",
+        "status": "不通过",
+        "PutTime": "2020-05-23"
+      },
+      {
+        "id": 3,
+        "goodName": "字画",
+        "store": "北国天骄",
+        "type": "教育",
+        "price": "1250",
+        "Sold": "100",
+        "surplus": "200",
+        "status": "通过",
+        "PutTime": "2020-05-23"
+      },
+      {
+        "id": 4,
+        "goodName": "字画",
+        "store": "米铺子",
+        "type": "教育",
+        "price": "1250",
+        "Sold": "100",
+        "surplus": "200",
+        "status": "不通过",
+        "PutTime": "2020-05-23"
+      }
+    ],
+    "pageTotal": 4
+  },
+  "data05": {
+    "list": [
+      {
+        "id": 1,
+        "UserName": "耿耿小店铺",
+        "Name": "耿耿",
+        "type": "教育",
+        "tel": "15031267890",
+        "email": "1234569@163.com",
+        "status": "是"
+      },
+      {
+        "id": 2,
+        "UserName": "耿耿小店铺",
+        "Name": "耿耿",
+        "type": "教育",
+        "tel": "15031267890",
+        "email": "1234569@163.com",
+        "status": "否"
+      },
+      {
+        "id": 3,
+        "UserName": "耿耿小店铺",
+        "Name": "耿耿",
+        "type": "教育",
+        "tel": "15031267890",
+        "email": "1234569@163.com",
+        "status": "是"
+      },
+      {
+        "id": 4,
+        "UserName": "耿耿小店铺",
+        "Name": "耿耿",
+        "type": "教育",
+        "tel": "15031267890",
+        "email": "1234569@163.com",
+        "status": "否"
+      }
+    ],
+    "pageTotal": 4
+  },
+  "data06": {
+    "list": [
+      {
+        "id": 1,
+        "href": "http://platform.taihetun.com/WeiXin/Home/Product?id=45ad547e-bfed-4afb-aa96-861f7b7bfe03&spreaderid=13&refereeId=13",
+        "order": "1",
+        "pic": "http://platform.taihetun.com/images/Banner/20200506173126247.jpg"
+      },
+      {
+        "id": 2,
+        "href": "http://platform.taihetun.com/WeiXin/Home/Product?id=45ad547e-bfed-4afb-aa96-861f7b7bfe03&spreaderid=13&refereeId=13",
+        "order": "2",
+        "pic": "http://platform.taihetun.com/images/Banner/20200326194828017.png"
+      },
+      {
+        "id": 3,
+        "href": "http://platform.taihetun.com/WeiXin/Home/Product?id=45ad547e-bfed-4afb-aa96-861f7b7bfe03&spreaderid=13&refereeId=13",
+        "order": "3",
+        "pic": "http://platform.taihetun.com/images/Banner/20200506173126247.jpg"
+      },
+      {
+        "id": 4,
+        "href": "http://platform.taihetun.com/WeiXin/Home/Product?id=45ad547e-bfed-4afb-aa96-861f7b7bfe03&spreaderid=13&refereeId=13",
+        "order": "4",
+        "pic": "http://platform.taihetun.com/images/Banner/20200326194828017.png"
+      }
+    ],
+    "pageTotal": 10
+  },
+  "data07": {
+    "list": [
+      {
+        "id": 1,
+        "type": "自营",
+        "parentType": "-",
+        "order": "1",
+        "remarks": "备注信息"
+      },
+      {
+        "id": 2,
+        "type": "教育",
+        "parentType": "-",
+        "order": "1",
+        "remarks": "备注信息"
+      },
+      {
+        "id": 3,
+        "type": "优品",
+        "parentType": "-",
+        "order": "1",
+        "remarks": "备注信息"
+      },
+      {
+        "id": 4,
+        "type": "健康",
+        "parentType": "-",
+        "order": "1",
+        "remarks": "备注信息"
+      }
+    ],
+    "pageTotal": 4
+  },
+  "data08": {
+    "list": [
+      {
+        "id": 1,
+        "pic": "http://platform.taihetun.com/Images/ProductImages//20200512/228.jpeg",
+        "productName": "爱宝乐空气净化器AP220",
+        "price": "699",
+        "order": "1"
+      },
+      {
+        "id": 2,
+        "pic": "http://platform.taihetun.com/Images/ProductImages//20200516/733.jpeg",
+        "productName": "冻干燕窝银耳红枣羹",
+        "price": "58",
+        "order": "2"
+      },
+      {
+        "id": 3,
+        "pic": "http://platform.taihetun.com/Images/ProductImages//20200512/228.jpeg",
+        "productName": "爱宝乐空气净化器AP220",
+        "price": "699",
+        "order": "3"
+      },
+      {
+        "id": 4,
+        "pic": "http://platform.taihetun.com/Images/ProductImages//20200516/733.jpeg",
+        "productName": "冻干燕窝银耳红枣羹",
+        "price": "58",
+        "order": "4"
+      }
+    ],
+    "pageTotal": 4
+  },
+  "data09": {
+    "list": [
+      {
+        "id": 1,
+        "UserName": "耿耿小店铺",
+        "Name": "耿耿",
+        "type": "教育",
+        "tel": "15031267890",
+        "email": "1234569@163.com",
+        "profit": "55689",
+        "grade": "一级"
+      },
+      {
+        "id": 2,
+        "UserName": "耿耿小店铺",
+        "Name": "耿耿",
+        "type": "教育",
+        "tel": "15031267890",
+        "email": "1234569@163.com",
+        "profit": "25689",
+        "grade": "二级"
+      },
+      {
+        "id": 3,
+        "UserName": "耿耿小店铺",
+        "Name": "耿耿",
+        "type": "教育",
+        "tel": "15031267890",
+        "email": "1234569@163.com",
+        "profit": "65689",
+        "grade": "二级"
+      },
+      {
+        "id": 4,
+        "UserName": "耿耿小店铺",
+        "Name": "耿耿",
+        "type": "教育",
+        "tel": "15031267890",
+        "email": "1234569@163.com",
+        "profit": "85689",
+        "grade": "三级"
+      }
+    ],
+    "pageTotal": 4
+  },
+  "data010": {
+    "list": [
+      {
+        "id": 1,
+        "PromotionType": "店铺",
+        "UserName": "耿耿",
+        "productName": "爱宝乐空气净化器AP220",
+        "pic": "http://platform.taihetun.com/Images/ProductImages//20200512/228.jpeg",
+        "ShareProportion": "0.3",
+        "grade": "一级",
+        "price": "699"
+      },
+      {
+        "id": 2,
+        "PromotionType": "分类",
+        "UserName": "耿耿",
+        "productName": "爱宝乐空气净化器AP220",
+        "pic": "http://platform.taihetun.com/Images/ProductImages//20200516/733.jpeg",
+        "ShareProportion": "0.2",
+        "grade": "二级",
+        "price": "499"
+      },
+      {
+        "id": 3,
+        "PromotionType": "单个商品",
+        "UserName": "耿耿",
+        "productName": "爱宝乐空气净化器AP220",
+        "pic": "http://platform.taihetun.com/Images/ProductImages//20200512/228.jpeg",
+        "ShareProportion": "0.2",
+        "grade": "三级",
+        "price": "499"
+      },
+      {
+        "id": 4,
+        "PromotionType": "店铺",
+        "UserName": "耿耿",
+        "productName": "爱宝乐空气净化器AP220",
+        "pic": "http://platform.taihetun.com/Images/ProductImages//20200516/733.jpeg",
+        "ShareProportion": "0.4",
+        "grade": "四级",
+        "price": "499"
+      }
+    ],
+    "pageTotal": 4
+  },
+  "data011": {
+    "list": [
+      {
+        "id": 1,
+        "PromotCourseType": "少儿",
+        "PromotCourseName": "动物世界",
+        "PromotCourseUrl": "http://platform.taihetun.com/Images/ProductImages//20200512/228.jpeg",
+        "ShareProportion": "0.3",
+        "price": "699"
+      },
+      {
+        "id": 2,
+        "PromotCourseType": "科技",
+        "PromotCourseName": "探索宇宙的秘密",
+        "PromotCourseUrl": "http://platform.taihetun.com/Images/ProductImages//20200512/228.jpeg",
+        "ShareProportion": "0.3",
+        "price": "399"
+      },
+      {
+        "id": 3,
+        "PromotCourseType": "少儿",
+        "PromotCourseName": "动物世界",
+        "PromotCourseUrl": "http://platform.taihetun.com/Images/ProductImages//20200512/228.jpeg",
+        "ShareProportion": "0.3",
+        "price": "599"
+      },
+      {
+        "id": 4,
+        "PromotCourseType": "科技",
+        "PromotCourseName": "探索宇宙的秘密",
+        "PromotCourseUrl": "http://platform.taihetun.com/Images/ProductImages//20200512/228.jpeg",
+        "ShareProportion": "0.3",
+        "price": "399"
+      }
+    ],
+    "pageTotal": 4
+  }
+}
